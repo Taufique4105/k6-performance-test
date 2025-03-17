@@ -1,5 +1,6 @@
 # k6-performance-test
 **Installation**
+
 I have used following command to set-up K6 on my Linux system
 
 sudo apt update && sudo apt install -y gpg
@@ -11,6 +12,7 @@ To check version use :
 k6 version
 
 **First Script using bash**
+
 I have created a directory for my tests : 
 mkdir -p ~/k6-tests && cd ~/k6-tests
 
